@@ -16,7 +16,6 @@ Refer to their respective documentation for more information.
    crypto/README
    nrf_modem/README
    mpsl/README
-   nrf_802154_sl/README
    nfc/README
    nrf_security/README
    openthread/README
